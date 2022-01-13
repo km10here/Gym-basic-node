@@ -1,0 +1,15 @@
+{
+  "name": "tut70",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kartavya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}

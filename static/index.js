@@ -1,0 +1,1 @@
+console.log("kartavya magoo! 12345");
